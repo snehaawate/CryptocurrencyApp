@@ -1,0 +1,102 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.cryptocurrencyapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:7:5-26:19
+14        android:name="com.example.cryptocurrencyapp.CoinApplication"
+14-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:8:9-40
+15        android:allowBackup="true"
+15-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.6.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\fe2633487002bbd5c86ccf5254f8d83b\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.CryptocurrencyApp" >
+23-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:14:9-55
+24        <activity
+24-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:15:9-25:20
+25            android:name="com.example.cryptocurrencyapp.presentation.MainActivity"
+25-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:16:13-54
+26            android:exported="true"
+26-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:17:13-36
+27            android:label="@string/app_name"
+27-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:18:13-45
+28            android:theme="@style/Theme.CryptocurrencyApp.NoActionBar" >
+28-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:19:13-71
+29            <intent-filter>
+29-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:20:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:21:17-69
+30-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:21:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:23:17-77
+32-->D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:23:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->[androidx.compose.ui:ui-tooling:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4e2aae81f3e2acbbde9547e2f66601e9\transformed\jetified-ui-tooling-1.0.1\AndroidManifest.xml:25:9-27:39
+36            android:name="androidx.compose.ui.tooling.PreviewActivity"
+36-->[androidx.compose.ui:ui-tooling:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4e2aae81f3e2acbbde9547e2f66601e9\transformed\jetified-ui-tooling-1.0.1\AndroidManifest.xml:26:13-71
+37            android:exported="true" />
+37-->[androidx.compose.ui:ui-tooling:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4e2aae81f3e2acbbde9547e2f66601e9\transformed\jetified-ui-tooling-1.0.1\AndroidManifest.xml:27:13-36
+38
+39        <provider
+39-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:26:9-34:20
+40            android:name="androidx.startup.InitializationProvider"
+40-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:27:13-67
+41            android:authorities="com.example.cryptocurrencyapp.androidx-startup"
+41-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:28:13-68
+42            android:exported="false" >
+42-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:29:13-37
+43            <meta-data
+43-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
+44                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+44-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
+45                android:value="androidx.startup" />
+45-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
+46        </provider>
+47
+48        <receiver
+48-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
+49            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+49-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
+50            android:directBootAware="false"
+50-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
+51            android:enabled="true"
+51-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
+52            android:exported="true"
+52-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
+53            android:permission="android.permission.DUMP" >
+53-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
+54            <intent-filter>
+54-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
+55                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+55-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
+55-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
+56            </intent-filter>
+57        </receiver>
+58    </application>
+59
+60</manifest>

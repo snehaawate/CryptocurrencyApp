@@ -1,0 +1,357 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.accompanist:accompanist-flowlayout:0.17.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4dc4ef050587fb653a2881462a8071d5\transformed\jetified-accompanist-flowlayout-0.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4e2aae81f3e2acbbde9547e2f66601e9\transformed\jetified-ui-tooling-1.0.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.compose.material:material:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\41255f0fee7f0ef0edc541b72c38188b\transformed\jetified-material-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0-alpha03] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\bbd7903e69fc1a3987f49acf3db4056d\transformed\jetified-hilt-navigation-compose-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f6793f53e5b39aa3d4a7c32dc4ed43dd\transformed\jetified-navigation-compose-2.4.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\d9a15ba147640d1695ce1391a4caf8ef\transformed\jetified-activity-compose-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:1.0.0-alpha07] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\ca0d78176ec3f7bb117f6964537434b4\transformed\jetified-lifecycle-viewmodel-compose-1.0.0-alpha07\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\c6367d5412d24796517896e6da52489b\transformed\jetified-ui-tooling-data-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4c4379afc81c50bc717d49b0ee19f0f4\transformed\jetified-material-ripple-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\659fc21097cc1f078609ca6e72099e10\transformed\jetified-foundation-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\5df097947904ae1b3eb53b3befccfdbe\transformed\jetified-animation-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\e6f831a5e5cb4da7fc58522e2007f7ab\transformed\jetified-animation-core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f2a7b446c7c93ac670f0772c4a679682\transformed\jetified-material-icons-core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\ec6c62dee7349a5319200b9ad211e0b9\transformed\jetified-foundation-layout-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\adb826de6207cf018e7237ea60361a40\transformed\jetified-ui-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7ca3eacddf29d47d3b54ebd1b241e125\transformed\navigation-runtime-ktx-2.4.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\d809ef4d34a82f7154c26c09d12ec91b\transformed\jetified-hilt-navigation-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\cd039b5fbc59b6af2a918cc75269f2ef\transformed\navigation-runtime-2.4.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\037b1d1b9c60f6b9a18f4311a53105fd\transformed\jetified-activity-ktx-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\310f8b0b405e84147d6248f19a63b94e\transformed\navigation-common-ktx-2.4.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1f0e3ae67e894ce8fb78a8d3977ee386\transformed\navigation-common-2.4.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6249ad0b0490ce9b1c4d57b9f187d4f3\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\736b6db149196d0fe4c18fcee08c682b\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6370729a276a9e2c35a8848fc986f766\transformed\jetified-ui-tooling-preview-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\11151a6decc20a58ee1597ba2e4e8666\transformed\jetified-ui-text-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1e6f364a4c0e5acc8a947f23fce39ec4\transformed\jetified-runtime-saveable-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\8b9adbc8b05c26ce89e5153e77250b3b\transformed\jetified-ui-graphics-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\854fb7dde3833d403e2ffc3897bdd27f\transformed\jetified-ui-unit-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\79dc94fd97be8e5c0886b8e996933173\transformed\jetified-ui-geometry-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\32397f3833d406793724de981e1d98f2\transformed\jetified-runtime-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\eae90d2a7c2496b43f05eb50ec529620\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\44b5a6de6c29293763843c66c98767a6\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b6440202d1abdf2a08236b7777415d89\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b1995fb9a738da73e9f35e022589e1b5\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1e966ebf63cd31c31d0849a120a573ae\transformed\jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.38.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\c6255ea85acc1b02e81fa40573745b7c\transformed\jetified-hilt-android-2.38.1\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.compose.ui:ui-util:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4189611db7bfca5f488c4e5f11b36f9d\transformed\jetified-ui-util-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9e9cd14a1207d7fff6c18a54a30007b7\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7fc9491ef535918e3f680e41079086eb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f8703032a922a3bc8420b9a283e3cbd0\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6ee7251377274494685b9218a2cdd9ae\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\bab4fc1cd74571a3d5d4167141782481\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\5a128aa3486287c65eefd6d61df21323\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\af5b7bab6d1bddda5b81bd15db9f223b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9b323e38bf37b05a8e7daf21a42540f2\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\33decab76548f08cc20a2df3b2092d8f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\aeefc1f65bfac95ec3e73837d17b0563\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\ee38636f9b57f251d3a6a1d6669b5705\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b13df8a36d800fc8f0c05010bba34e25\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\e40eb5411c8038da85d513492a7b26ad\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\2691ac6204106747bd22c16dc473dec8\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\e9b6ce22f87f53aabb586fac676576e9\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\d99bf964e679a9f19ab4d33a9a4fdbff\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a7395c620d3464e102ce9530b863fd99\transformed\jetified-activity-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\fe2633487002bbd5c86ccf5254f8d83b\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\e888116c58e875c271ecc9cbec5aaa4d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6060669ca6c2d59774e45caef15a7188\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\2217ec0e7de7d8b513f89c4e9dbe4646\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\cb645edae1118cc6115b87660ce09a8e\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\07c41f1dd162e544ce135d1e832272ec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\2431e7ff92a7c5450cced7fa300e59ad\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6a9a5263998b6ea6a44b548ab475f439\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\25435d1f1ecb4b76177c215e0ead486f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7222a89b0ed304d4c8ac0cd936b175e7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\ccbd6eaa52b68e1b2553311c216e44b8\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a1e4ec18e375ecc26b7af27dcbd2895c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\803b4c727166d805fb5e7bea7cc455b7\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9e5c5529d506d7efdae04047ddcd5f10\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\891e75a58c4e570cbb90e1f1f3d466a3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b373454b3bd986959e996ad2611f60d1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\397d289fcf65596a45126bee6ffc950d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\0932fbaf685e2dab8fc3fdbf6645e277\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a3333dd47f7edaa678e89468bebd6240\transformed\jetified-dagger-lint-aar-2.38.1\AndroidManifest.xml:16:1-19:12
+INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:7:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4e2aae81f3e2acbbde9547e2f66601e9\transformed\jetified-ui-tooling-1.0.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4e2aae81f3e2acbbde9547e2f66601e9\transformed\jetified-ui-tooling-1.0.1\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.material:material:1.4.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\44b5a6de6c29293763843c66c98767a6\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\44b5a6de6c29293763843c66c98767a6\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b6440202d1abdf2a08236b7777415d89\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b6440202d1abdf2a08236b7777415d89\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\fe2633487002bbd5c86ccf5254f8d83b\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\fe2633487002bbd5c86ccf5254f8d83b\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7222a89b0ed304d4c8ac0cd936b175e7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7222a89b0ed304d4c8ac0cd936b175e7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a1e4ec18e375ecc26b7af27dcbd2895c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a1e4ec18e375ecc26b7af27dcbd2895c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\fe2633487002bbd5c86ccf5254f8d83b\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:14:9-55
+	android:name
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:8:9-40
+activity#com.example.cryptocurrencyapp.presentation.MainActivity
+ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:18:13-45
+	android:exported
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:19:13-71
+	android:name
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:16:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.accompanist:accompanist-flowlayout:0.17.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4dc4ef050587fb653a2881462a8071d5\transformed\jetified-accompanist-flowlayout-0.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-flowlayout:0.17.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4dc4ef050587fb653a2881462a8071d5\transformed\jetified-accompanist-flowlayout-0.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4e2aae81f3e2acbbde9547e2f66601e9\transformed\jetified-ui-tooling-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4e2aae81f3e2acbbde9547e2f66601e9\transformed\jetified-ui-tooling-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\41255f0fee7f0ef0edc541b72c38188b\transformed\jetified-material-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\41255f0fee7f0ef0edc541b72c38188b\transformed\jetified-material-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0-alpha03] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\bbd7903e69fc1a3987f49acf3db4056d\transformed\jetified-hilt-navigation-compose-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0-alpha03] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\bbd7903e69fc1a3987f49acf3db4056d\transformed\jetified-hilt-navigation-compose-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f6793f53e5b39aa3d4a7c32dc4ed43dd\transformed\jetified-navigation-compose-2.4.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f6793f53e5b39aa3d4a7c32dc4ed43dd\transformed\jetified-navigation-compose-2.4.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\d9a15ba147640d1695ce1391a4caf8ef\transformed\jetified-activity-compose-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\d9a15ba147640d1695ce1391a4caf8ef\transformed\jetified-activity-compose-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:1.0.0-alpha07] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\ca0d78176ec3f7bb117f6964537434b4\transformed\jetified-lifecycle-viewmodel-compose-1.0.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:1.0.0-alpha07] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\ca0d78176ec3f7bb117f6964537434b4\transformed\jetified-lifecycle-viewmodel-compose-1.0.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\c6367d5412d24796517896e6da52489b\transformed\jetified-ui-tooling-data-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\c6367d5412d24796517896e6da52489b\transformed\jetified-ui-tooling-data-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4c4379afc81c50bc717d49b0ee19f0f4\transformed\jetified-material-ripple-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4c4379afc81c50bc717d49b0ee19f0f4\transformed\jetified-material-ripple-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\659fc21097cc1f078609ca6e72099e10\transformed\jetified-foundation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\659fc21097cc1f078609ca6e72099e10\transformed\jetified-foundation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\5df097947904ae1b3eb53b3befccfdbe\transformed\jetified-animation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\5df097947904ae1b3eb53b3befccfdbe\transformed\jetified-animation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\e6f831a5e5cb4da7fc58522e2007f7ab\transformed\jetified-animation-core-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\e6f831a5e5cb4da7fc58522e2007f7ab\transformed\jetified-animation-core-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f2a7b446c7c93ac670f0772c4a679682\transformed\jetified-material-icons-core-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f2a7b446c7c93ac670f0772c4a679682\transformed\jetified-material-icons-core-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\ec6c62dee7349a5319200b9ad211e0b9\transformed\jetified-foundation-layout-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\ec6c62dee7349a5319200b9ad211e0b9\transformed\jetified-foundation-layout-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\adb826de6207cf018e7237ea60361a40\transformed\jetified-ui-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\adb826de6207cf018e7237ea60361a40\transformed\jetified-ui-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7ca3eacddf29d47d3b54ebd1b241e125\transformed\navigation-runtime-ktx-2.4.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7ca3eacddf29d47d3b54ebd1b241e125\transformed\navigation-runtime-ktx-2.4.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\d809ef4d34a82f7154c26c09d12ec91b\transformed\jetified-hilt-navigation-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\d809ef4d34a82f7154c26c09d12ec91b\transformed\jetified-hilt-navigation-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\cd039b5fbc59b6af2a918cc75269f2ef\transformed\navigation-runtime-2.4.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\cd039b5fbc59b6af2a918cc75269f2ef\transformed\navigation-runtime-2.4.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\037b1d1b9c60f6b9a18f4311a53105fd\transformed\jetified-activity-ktx-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\037b1d1b9c60f6b9a18f4311a53105fd\transformed\jetified-activity-ktx-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\310f8b0b405e84147d6248f19a63b94e\transformed\navigation-common-ktx-2.4.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\310f8b0b405e84147d6248f19a63b94e\transformed\navigation-common-ktx-2.4.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1f0e3ae67e894ce8fb78a8d3977ee386\transformed\navigation-common-2.4.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha08] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1f0e3ae67e894ce8fb78a8d3977ee386\transformed\navigation-common-2.4.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6249ad0b0490ce9b1c4d57b9f187d4f3\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6249ad0b0490ce9b1c4d57b9f187d4f3\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\736b6db149196d0fe4c18fcee08c682b\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\736b6db149196d0fe4c18fcee08c682b\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6370729a276a9e2c35a8848fc986f766\transformed\jetified-ui-tooling-preview-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6370729a276a9e2c35a8848fc986f766\transformed\jetified-ui-tooling-preview-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\11151a6decc20a58ee1597ba2e4e8666\transformed\jetified-ui-text-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\11151a6decc20a58ee1597ba2e4e8666\transformed\jetified-ui-text-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1e6f364a4c0e5acc8a947f23fce39ec4\transformed\jetified-runtime-saveable-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1e6f364a4c0e5acc8a947f23fce39ec4\transformed\jetified-runtime-saveable-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\8b9adbc8b05c26ce89e5153e77250b3b\transformed\jetified-ui-graphics-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\8b9adbc8b05c26ce89e5153e77250b3b\transformed\jetified-ui-graphics-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\854fb7dde3833d403e2ffc3897bdd27f\transformed\jetified-ui-unit-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\854fb7dde3833d403e2ffc3897bdd27f\transformed\jetified-ui-unit-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\79dc94fd97be8e5c0886b8e996933173\transformed\jetified-ui-geometry-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\79dc94fd97be8e5c0886b8e996933173\transformed\jetified-ui-geometry-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\32397f3833d406793724de981e1d98f2\transformed\jetified-runtime-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\32397f3833d406793724de981e1d98f2\transformed\jetified-runtime-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\eae90d2a7c2496b43f05eb50ec529620\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\eae90d2a7c2496b43f05eb50ec529620\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\44b5a6de6c29293763843c66c98767a6\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\44b5a6de6c29293763843c66c98767a6\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b6440202d1abdf2a08236b7777415d89\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b6440202d1abdf2a08236b7777415d89\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b1995fb9a738da73e9f35e022589e1b5\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b1995fb9a738da73e9f35e022589e1b5\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1e966ebf63cd31c31d0849a120a573ae\transformed\jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1e966ebf63cd31c31d0849a120a573ae\transformed\jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.38.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\c6255ea85acc1b02e81fa40573745b7c\transformed\jetified-hilt-android-2.38.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.38.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\c6255ea85acc1b02e81fa40573745b7c\transformed\jetified-hilt-android-2.38.1\AndroidManifest.xml:18:3-42
+MERGED from [androidx.compose.ui:ui-util:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4189611db7bfca5f488c4e5f11b36f9d\transformed\jetified-ui-util-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4189611db7bfca5f488c4e5f11b36f9d\transformed\jetified-ui-util-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9e9cd14a1207d7fff6c18a54a30007b7\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9e9cd14a1207d7fff6c18a54a30007b7\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7fc9491ef535918e3f680e41079086eb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7fc9491ef535918e3f680e41079086eb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f8703032a922a3bc8420b9a283e3cbd0\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f8703032a922a3bc8420b9a283e3cbd0\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6ee7251377274494685b9218a2cdd9ae\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6ee7251377274494685b9218a2cdd9ae\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\bab4fc1cd74571a3d5d4167141782481\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\bab4fc1cd74571a3d5d4167141782481\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\5a128aa3486287c65eefd6d61df21323\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\5a128aa3486287c65eefd6d61df21323\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\af5b7bab6d1bddda5b81bd15db9f223b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\af5b7bab6d1bddda5b81bd15db9f223b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9b323e38bf37b05a8e7daf21a42540f2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9b323e38bf37b05a8e7daf21a42540f2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\33decab76548f08cc20a2df3b2092d8f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\33decab76548f08cc20a2df3b2092d8f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\aeefc1f65bfac95ec3e73837d17b0563\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\aeefc1f65bfac95ec3e73837d17b0563\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\ee38636f9b57f251d3a6a1d6669b5705\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\ee38636f9b57f251d3a6a1d6669b5705\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b13df8a36d800fc8f0c05010bba34e25\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b13df8a36d800fc8f0c05010bba34e25\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\e40eb5411c8038da85d513492a7b26ad\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\e40eb5411c8038da85d513492a7b26ad\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\2691ac6204106747bd22c16dc473dec8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\2691ac6204106747bd22c16dc473dec8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\e9b6ce22f87f53aabb586fac676576e9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\e9b6ce22f87f53aabb586fac676576e9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\d99bf964e679a9f19ab4d33a9a4fdbff\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\d99bf964e679a9f19ab4d33a9a4fdbff\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a7395c620d3464e102ce9530b863fd99\transformed\jetified-activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a7395c620d3464e102ce9530b863fd99\transformed\jetified-activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\fe2633487002bbd5c86ccf5254f8d83b\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\fe2633487002bbd5c86ccf5254f8d83b\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\e888116c58e875c271ecc9cbec5aaa4d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\e888116c58e875c271ecc9cbec5aaa4d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6060669ca6c2d59774e45caef15a7188\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6060669ca6c2d59774e45caef15a7188\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\2217ec0e7de7d8b513f89c4e9dbe4646\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\2217ec0e7de7d8b513f89c4e9dbe4646\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\cb645edae1118cc6115b87660ce09a8e\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\cb645edae1118cc6115b87660ce09a8e\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\07c41f1dd162e544ce135d1e832272ec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\07c41f1dd162e544ce135d1e832272ec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\2431e7ff92a7c5450cced7fa300e59ad\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\2431e7ff92a7c5450cced7fa300e59ad\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6a9a5263998b6ea6a44b548ab475f439\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\6a9a5263998b6ea6a44b548ab475f439\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\25435d1f1ecb4b76177c215e0ead486f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\25435d1f1ecb4b76177c215e0ead486f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7222a89b0ed304d4c8ac0cd936b175e7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7222a89b0ed304d4c8ac0cd936b175e7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\ccbd6eaa52b68e1b2553311c216e44b8\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\ccbd6eaa52b68e1b2553311c216e44b8\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a1e4ec18e375ecc26b7af27dcbd2895c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a1e4ec18e375ecc26b7af27dcbd2895c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\803b4c727166d805fb5e7bea7cc455b7\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\803b4c727166d805fb5e7bea7cc455b7\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9e5c5529d506d7efdae04047ddcd5f10\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9e5c5529d506d7efdae04047ddcd5f10\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\891e75a58c4e570cbb90e1f1f3d466a3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\891e75a58c4e570cbb90e1f1f3d466a3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b373454b3bd986959e996ad2611f60d1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b373454b3bd986959e996ad2611f60d1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\397d289fcf65596a45126bee6ffc950d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\397d289fcf65596a45126bee6ffc950d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\0932fbaf685e2dab8fc3fdbf6645e277\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\0932fbaf685e2dab8fc3fdbf6645e277\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a3333dd47f7edaa678e89468bebd6240\transformed\jetified-dagger-lint-aar-2.38.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a3333dd47f7edaa678e89468bebd6240\transformed\jetified-dagger-lint-aar-2.38.1\AndroidManifest.xml:18:3-42
+INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Github-Projects\CryptocurrencyApp\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4e2aae81f3e2acbbde9547e2f66601e9\transformed\jetified-ui-tooling-1.0.1\AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4e2aae81f3e2acbbde9547e2f66601e9\transformed\jetified-ui-tooling-1.0.1\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\4e2aae81f3e2acbbde9547e2f66601e9\transformed\jetified-ui-tooling-1.0.1\AndroidManifest.xml:26:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a1e4ec18e375ecc26b7af27dcbd2895c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\a1e4ec18e375ecc26b7af27dcbd2895c\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\db726b3a143d96345073a958809daf65\transformed\jetified-profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
